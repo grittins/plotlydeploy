@@ -11,7 +11,7 @@ Software: Visual Studio Code (javascript, css, html)
 A dashboard is created to showcase the demographic information visualizing the bacterial data for each volunteer. 
 The following three charts can be rendered: 
 - Bar chart of top 10 bacterial species in their belly buttons
-- Gauge Chart for frequency of participants washing their belly bottons
+- Gauge chart for frequency of participants washing their belly bottons
 - Bubble chart bacteria cultures found in each participants samples
 
 The site is live at: https://grittins.github.io/plotlydiploy/
