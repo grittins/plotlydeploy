@@ -1,0 +1,15 @@
+.jumbotron {
+  background-size: 100% 100%;
+  text-align: center;
+  color: #414ce6;
+}
+
+h1 span {
+  background-color: #7d7bf1;
+  padding: 15px;
+}
+
+p span {
+  background-color: #9b99e4;
+  padding: 15px;
+}
