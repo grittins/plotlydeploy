@@ -87,7 +87,7 @@ function buildCharts(sample) {
     var metaResult = metaArray[0]
 
     // 1.3 Create a variable that holds the washing frequency.
-    var washFreq = parseInt(firstSampMd.wfreq);
+    var washFreq = parseInt(firstSample.wfreq);
 
     // 8. Create the trace for the bar chart. 
     var barTrace = [{
