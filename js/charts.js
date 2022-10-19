@@ -80,14 +80,14 @@ function buildCharts(sample) {
 
     // Next 1.1-1.3 steps, variables are created to render Gauge Chart
     // 1.1 Create a variable that filters the metadata array for the object with the desired sample number.
-    var metadata = data.metadata;
-    var metaArray = metadata.filter(sampleObj => sampleObj.id == sample);
+    // var metadata = data.metadata;
+    // var metaArray = metadata.filter(sampleObj => sampleObj.id == sample);
 
-    // 1.2 Create a variable that holds the first sample in the metadata array.
-    var metaResult = metaArray[0]
+    // // 1.2 Create a variable that holds the first sample in the metadata array.
+    // var metaResult = metaArray[0]
 
-    // 1.3 Create a variable that holds the washing frequency.
-    var washFreq = parseInt(firstSample.wfreq);
+    // // 1.3 Create a variable that holds the washing frequency.
+    // var washFreq = parseInt(result.wfreq);
 
     // 8. Create the trace for the bar chart. 
     var barTrace = [{
