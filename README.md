@@ -1,4 +1,4 @@
-# Plotly 
+# Plotly [LIVE DEMO](https://grittins.github.io/plotlydeploy)
 
 ## Resources
 
